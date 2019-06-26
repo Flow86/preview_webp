@@ -1,0 +1,12 @@
+{
+    "name": "flow86/preview_webp",
+    "type": "project",
+    "license": "agpl",
+    "authors": [
+        {
+            "name": "Flow86",
+            "email": "656249+Flow86@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

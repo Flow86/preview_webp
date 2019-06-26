@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>preview_webp</id>
+    <name>Webp Previews</name>
+    <summary>Preview and show webp image files in Nextcloud</summary>
+    <description><![CDATA[This app will make previews of &quot;WEBP&quot; image files in Nextcloud.]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="656249+Flow86@users.noreply.github.com">Flow86</author>
+    <namespace>PreviewWebp</namespace>
+    <category>files</category>
+    <category>multimedia</category>
+    <bugs>https://github.com/Flow86/preview_webp/issues</bugs>
+    <dependencies>
+        <nextcloud min-version="16" max-version="17" />
+    </dependencies>
+    <types><filesystem/></types>
+</info>
